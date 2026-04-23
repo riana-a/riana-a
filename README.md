@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 Welcome! I’m Riana, a Computer Science student at UIC who enjoys learning new programming languages and building projects that help me grow as a developer. I’m currently working with C/C++, Java, and JavaScript, and I use this GitHub to share my coursework, practice programs, and anything else I create along the way. My goal is to keep improving through hands‑on projects and to build a strong foundation for future opportunities in software development.
 
 
-## Projects
+## Table of Projects
 - **CS251 Project 5 – HashMap**  
   Coursework project implementing a HashMap to practice data structures and Java programming.
