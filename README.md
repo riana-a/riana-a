@@ -18,5 +18,3 @@ Welcome! I’m Riana, a Computer Science student at UIC who enjoys learning new 
 
 
 ## Projects Table of Contents
-- **CS251 Project 5 – HashMap**  
-  Coursework project implementing a HashMap to practice data structures and Java programming.
